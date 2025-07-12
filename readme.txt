@@ -7,3 +7,4 @@ pp
 
 ef
 branck test
+Creating a new branch is quick & simple.
